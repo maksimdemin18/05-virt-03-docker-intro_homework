@@ -98,7 +98,7 @@ Digest: sha256:3ab4ed065a1437cbbd45e65617b1285bdf6523c6bf56a121e00df41720e09a89
 Status: Downloaded newer image for nginx:1.29.0
 docker.io/library/nginx:1.29.0
 ```
-[И проверяем:(png/004.png)
+[И проверяем:](png/004.png)
 ```
 docker images nginx
 ```
